@@ -28,7 +28,7 @@ class _LogInState extends State<LogIn> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Log in with git'),
+        title: Text('Log in with gitdown'),
         backgroundColor: Colors.redAccent,
         centerTitle: true,
         leading: IconButton(icon: Icon(Icons.menu), onPressed: () {}),
